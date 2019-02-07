@@ -1,16 +1,29 @@
 # Brief Description of the Game
     This is a text based adventure game. 
-    In this game, Natsu(you), the Protagonist,22 have to save the Kingdom of Kanto by defeating
-    the Acnologia,  a ruthless & bloodthirsty dragon slayer, and bring peace to
-    the world where dragons and humans co-exist. It consists of three stages,
-    and has defined functions for start,for different stages of games, and for losing. This game requires basic
-    of knowledge natural elements ( fire, water, etc), attention to detail
-    while playing game to solve basic puzzle, some common sense  and
-    some luck factor(random function included) to win.
+    
+        In this game, Natsu(you) have to save the Kingdom of Kanto by defeating
+        Acnologia,  a ruthless & bloodthirsty dragon slayer, and bring peace to
+        the world where dragons and humans co-exist. The Game consists of three stages.
 
-    Stage 1: Decide the strategy to fight the enemies
-    Stage 2: Overcome the illness
-    Stage 3: Defeat the Acnologia
+        You need to use the following to win:
+
+        * your basic nature elements(fire, water,etc) knowledge
+        * read attentively for clues
+        * your wit and intelligence
+        * and you need a bit of luck factor too :) !!!!
+
+        The following information will be useful:
+
+        Dragon are very powerful beings in the Kingdom of Kanto. They terrorized
+        the World 400 years ago. Humans were food to the dragons. But an Unknown
+        Dragon, realized this as wrong doing and taught some humans magic to defeat dragons.
+        Each of those humans were implanted with a special elemental(such as fire, water, etc) seed
+        which made those humans Dragon Slayers.
+
+        Each Dragon Slayer is of different type. For eg: If some one is a Shadow Dragon Slayer, He can
+        slay a Shadow Dragon with relative ease as compared to other type of Dragon. Alternatively, a Shadow Dragon
+        Slayer will be weak against a Light Dragon.
+
     
 # Story 
         Over 400 years ago, in the kingdom of Kanto, the Dragons were considered
@@ -28,3 +41,5 @@
 
         Your job is to stop Acnologia from reaching the King’s Palace and
         defeat him to bring peace back to the world.
+        
+
