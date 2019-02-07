@@ -43,3 +43,7 @@
         defeat him to bring peace back to the world.
         
 
+# The Game has three stages
+- Stage 1: Decide the strategy to fight the enemies
+- Stage 2: Overcome the illness
+- Stage 3: Defeat the Acnologia
