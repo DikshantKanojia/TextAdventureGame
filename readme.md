@@ -50,7 +50,7 @@
 
 # How to play the game:
 ### Steps:
-- Step 1: Download the using link - https://github.com/DikshantKanojia/TextAdventureGame/archive/master.zip
+- Step 1: Download the game file using the link - https://github.com/DikshantKanojia/TextAdventureGame/archive/master.zip
 - Step 2: Open the Terminal. (If you're a windows user, open the command prompt)
 - Step 3: Change the current working directory of the terminal to the one where you saved the game file
 - Step 4: Type "python game.py" in the terminal and enjoy the game
