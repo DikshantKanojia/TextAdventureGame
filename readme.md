@@ -47,3 +47,10 @@
 - Stage 1: Decide the strategy to fight the enemies
 - Stage 2: Overcome the illness
 - Stage 3: Defeat the Acnologia
+
+# How to play the game:
+### Steps:
+- Step 1: Download the using link - https://github.com/DikshantKanojia/TextAdventureGame/archive/master.zip
+- Step 2: Open the Terminal
+- Step 3: Change the current working directory of the terminal to the one where you saved the game file
+- Step 4: Type "python game.py" in the terminal and enjoy the game
